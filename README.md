@@ -1,9 +1,10 @@
 # TaskTracker
 
-Aplicação de linha de comando (CLI) em Python para cadastro e visualização de tarefas, empacotada com Docker.
 Projeto do **Bootcamp II — CEUB**.
 
-**Autor:** Thiago Seabra Aquino da Silva — RA 22600589 — Ciência da Computação — Polo [Asa Norte/Taguatinga]
+Thiago Seabra Aquino da Silva
+RA 22600589
+Ciência da Computação
 
 ## Funcionalidades
 - Cadastrar tarefa com título, descrição, prioridade e data limite
