@@ -36,7 +36,7 @@ tasktracker-projeto/
 Pré-requisito: Python 3 instalado.
 
 ```bash
-git clone https://github.com/SEU-USUARIO/tasktracker-projeto.git
+git clone https://github.com/thigoxz/tasktracker-projeto.git
 cd tasktracker-projeto
 python3 src/main.py
 ```
